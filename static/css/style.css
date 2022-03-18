@@ -1,0 +1,13 @@
+body {
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 14px;
+  line-height: 1.42857143;
+  color: rgb(66, 62, 62);
+  font-display: optional;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+  font-display: optional;
+  color: rgb(66, 62, 62);
+}
