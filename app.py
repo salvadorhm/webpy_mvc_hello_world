@@ -1,4 +1,4 @@
-import web # web.py library
+import web  # web.py library
 
 # Define the URL mappings
 urls = (
